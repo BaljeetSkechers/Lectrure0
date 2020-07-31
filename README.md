@@ -1,2 +1,2 @@
-# Lectrure0
+# Lecture0
 Harvard Lecture 0 
